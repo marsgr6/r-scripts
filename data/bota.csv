@@ -1,0 +1,54 @@
+abuelo,padre,hijo,categoría,valoración,value
+,Migración campo ciudad,Años de consolidación,60s,bajo,0
+,Migración campo ciudad,Años de consolidación,70s,medio,1
+,Migración campo ciudad,Años de consolidación,80s,alto,2
+,Migración campo ciudad,Años de consolidación,90s,alto,2
+,Migración campo ciudad,Años de consolidación,2010,alto,2
+,Migración campo ciudad,Años de consolidación,2022,alto,2
+,,Servicios básicos,Agua potable,medio,1
+,,Servicios básicos,Electricidad,medio,1
+,,Servicios básicos,Alcantarillado,medio,1
+,,Servicios básicos,Recogida basura,bajo,0
+,Informalidad,Vivienda,Estado de las viviendas,medio,1
+,Informalidad,Trazado vial,Estado de las vías,medio,1
+,Informalidad,Trazado vial,Cobertura de red,medio,1
+,Informalidad,Servicios básicos,Servicios básicos,medio,1
+,Informalidad,Equipamientos ,Equipamientos ,medio,1
+,Informalidad,Infraestructura,Infraestructura,medio,1
+Accesibilidad,Al barrio,Motorizada,Transporte público,medio,1
+Accesibilidad,Al barrio,Motorizada,Vehículo privado,alto,2
+Accesibilidad,Al barrio,No motorizada,Bicicleta,bajo,0
+Accesibilidad,Al barrio,No motorizada,Peatonal,medio,1
+Accesibilidad,Dentro del barrio,Motorizada,Transporte público,bajo,0
+Accesibilidad,Dentro del barrio,Motorizada,Vehículo privado,alto,2
+Accesibilidad,Dentro del barrio,No motorizada,Bicicleta,bajo,0
+Accesibilidad,Dentro del barrio,No motorizada,Peatonal,alto,2
+,,,Conectividad del barrio con la ciudad,medio,1
+,,,Entorno socioeconómico,bajo,0
+,,Densidad,Poblacional,medio,1
+,,Densidad,Viviendas,medio,1
+,,,Integración urbana,medio,1
+,,,Lotización,medio,1
+,,,Ubicación,medio,1
+,,Vulnerabilidad ,Deslizamientos de tierra,alto,2
+,,Vulnerabilidad ,Sismos,medio,1
+,,Vulnerabilidad ,Inundaciones,medio,1
+,,Vulnerabilidad ,Incendios,bajo,0
+,,Vulnerabilidad ,Movimientos,alto,2
+,,Vulnerabilidad ,Contaminación ambiental,medio,1
+,Patrimonio natural,Áreas verdes,Áreas protegidas,bajo,0
+,Patrimonio natural,Áreas verdes,Públicas,bajo,0
+,Patrimonio natural,Áreas verdes,Privadas,medio,1
+,Patrimonio natural,Áreas verdes,Accesibles,bajo,0
+,,,Patrimonio cultural,bajo,0
+,Sistemas de soporte ,Equipamientos ,Sistema vial,medio,1
+,Sistemas de soporte ,Equipamientos ,Salud,bajo,0
+,Sistemas de soporte ,Equipamientos ,Educación,bajo,0
+,Sistemas de soporte ,Equipamientos ,Espacios públicos recreativos,bajo,0
+,Sistemas de soporte ,Equipamientos ,Áreas verdes,bajo,0
+,Sistemas de soporte ,Equipamientos ,Bienestar social,bajo,0
+,Sistemas de soporte ,Servicios,Instalaciones de comunicación,medio,1
+,Sistemas de soporte ,Servicios,Energía,medio,1
+,Sistemas de soporte ,Servicios,Agua,medio,1
+,Sistemas de soporte ,Servicios,Alcantarillado,medio,1
+,Sistemas de soporte ,Servicios,Manejo de RSU,bajo,0
