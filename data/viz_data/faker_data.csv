@@ -1,0 +1,1001 @@
+age,income,savings_rate,risk_score,test_score,education,gender
+26.2,18683.96,0.12,22,55,High School,Male
+26.7,42476.57,0.52,10,79.8,PhD,Female
+32.7,42580.42,0.22,9.6,78.7,Master's,Female
+38.7,4932.26,0.2,4.8,66.8,Bachelor's,Female
+44.1,7957.59,0.14,4.8,44.3,High School,Female
+27,292.64,0.13,2.7,56,High School,Female
+49.9,10287.02,0.11,9.9,50.6,High School,Female
+32.3,561.62,0.34,8.8,83.4,Master's,Female
+34.8,86813.13,0.22,27.2,61.7,Bachelor's,Male
+27.5,131720.02,0.29,9,79.3,Master's,Male
+10.8,46340.22,0.14,15.8,54.3,High School,Male
+43.8,162728.45,0.53,7.2,82.2,PhD,Non-binary
+42.4,3882.02,0.38,7,82,Master's,Female
+32.2,1653.21,0.11,5.5,55.2,High School,Male
+35.7,7532.07,0.13,7.5,50.7,High School,Female
+40.2,6905.34,0.09,2.7,52.2,High School,Female
+19.4,11072.64,0.1,22.7,60.2,High School,Male
+29.7,268.76,0.13,10.4,73.9,Bachelor's,Female
+42.9,21172.09,0.1,12.8,71.1,Bachelor's,Female
+22.5,1650.6,0.13,18.7,61.1,High School,Male
+37.9,48738.45,0.21,12.7,65.4,Bachelor's,Female
+21.4,26692.23,0.11,23.3,55.2,High School,Male
+39.7,2978.98,0.07,14.9,56.4,High School,Female
+34.6,28435.56,0.11,15.5,55.9,High School,Non-binary
+18.8,70380.1,0.19,10,69.6,Bachelor's,Female
+46.6,105855.15,0.25,9.5,75.1,Master's,Male
+27.7,6026,0.07,4.9,58.4,High School,Female
+26.9,22635.75,0.13,2.8,69.4,Bachelor's,Female
+37,57179.58,0.16,26.3,74.4,Bachelor's,Male
+46.5,5078.08,0.12,5.5,57.4,High School,Female
+24.8,134304.22,0.2,12.5,66.7,Bachelor's,Male
+35.6,18980.27,0.07,9.5,52.6,High School,Female
+39.3,7377.32,0.12,26,57.9,High School,Male
+41.9,24949.58,0.37,21.9,88,PhD,Male
+36.8,55129.85,0.44,3.6,83.7,PhD,Male
+31.3,45637.03,0.21,10.5,82,Master's,Female
+26.7,9362.99,0.14,29.6,57.7,High School,Male
+35.9,88986.84,0.13,13.7,53.8,High School,Female
+24.3,13745.34,0.19,5.3,74.6,Bachelor's,Male
+5.8,78879.89,0.23,49.2,66.8,Bachelor's,Male
+39.4,4422.53,0.05,7.3,59.9,High School,Female
+44,26724.07,0.15,10.3,67.6,Bachelor's,Female
+11.4,6335.74,0.05,24,60.3,High School,Male
+24.9,3177.31,0.52,9.8,87.5,PhD,Female
+41.2,13259.63,0.11,14.1,61.5,High School,Female
+55.6,149616.07,0.21,7.6,77,Bachelor's,Female
+35.2,29494.52,0.09,10.2,57.8,High School,Male
+27.7,127058.04,0.15,17.3,70.6,Bachelor's,Male
+33.2,7609.45,0.25,19.9,74.5,Bachelor's,Female
+48.7,30134.82,0.11,4.7,57.2,High School,Male
+28.5,48522.97,0.48,10.6,87.2,PhD,Female
+27,10256.42,0.3,10.8,79.4,Master's,Female
+30.2,95557.66,0.48,5.7,86.6,PhD,Female
+25.5,51214.66,0.24,11.1,75.9,Master's,Female
+36.2,24291.4,0.2,20.2,72.1,Bachelor's,Non-binary
+51.2,144332.65,0.52,25.5,90.3,PhD,Male
+38.2,51874.37,0.1,8.2,50.6,High School,Female
+32.5,20401.24,0.08,31.9,53.7,High School,Male
+32.1,21003.04,0.11,13.2,51.8,High School,Male
+19.4,14936.9,0.14,14.6,54.4,High School,Female
+43.8,17216.1,0.07,14.1,54.3,High School,Female
+34.2,26744.45,0.08,19.1,55.8,High School,Non-binary
+33.2,329938.78,0.21,15.1,81.2,Master's,Female
+66.9,15012.15,0.13,5.1,55.3,High School,Male
+38,9801.31,0.06,38.5,56.4,High School,Male
+27.5,88961.93,0.11,7,71.2,Bachelor's,Female
+30.7,1768.42,0.07,10.2,48.1,High School,Male
+46.5,8941.62,0.23,8,79.1,Master's,Male
+36.1,86754.4,0.13,37.1,48.2,High School,Male
+20.6,192112.81,0.42,11.9,83.1,PhD,Male
+44.2,22228.47,0.23,10.9,85.5,Master's,Male
+28.3,1550.58,0.07,25.7,50.4,High School,Male
+53.7,3813.7,0.08,28.3,47.3,High School,Male
+45.8,69615.59,0.36,7.7,79.4,Master's,Male
+30.5,60841.65,0.3,5.9,74.3,Master's,Non-binary
+47.8,56205,0.22,15.7,83.1,Master's,Male
+35.7,30739.91,0.36,4.8,75.3,Master's,Male
+43.5,20656.1,0.11,10.5,45.7,High School,Female
+39.8,36019.31,0.14,12.3,59.9,High School,Male
+26.5,72827.79,0.14,6.8,55.5,High School,Female
+28.6,12158.71,0.3,11.6,66.7,Master's,Female
+45.3,87435.95,0.15,28,64.1,Bachelor's,Male
+31.7,12533.56,0.08,15.6,53,High School,Male
+31,3498.84,0.15,4.4,56.4,High School,Female
+25.4,13419.18,0.11,8.2,50.1,High School,Female
+39.2,19306.59,0.09,20.8,57.6,High School,Male
+55.6,8525.81,0.31,4.5,76.4,Master's,Female
+24.3,9692.05,0.22,11.6,67.1,Bachelor's,Male
+35.2,183329.5,0.39,13.8,78.6,Master's,Non-binary
+49.1,76711.83,0.16,6,66,Bachelor's,Male
+34.2,13019.2,0.13,12.6,57.1,High School,Female
+39.5,13950.05,0.24,14.4,76.1,Master's,Female
+24.4,16085.48,0.25,0.3,81.2,Master's,Female
+39.3,31585.89,0.21,4.1,71.5,Bachelor's,Female
+33.1,51499.27,0.27,6.3,83.3,Master's,Male
+44.9,1962.41,0.14,9.6,69.9,Bachelor's,Male
+46.9,13056.06,0.24,15.9,76.4,Bachelor's,Male
+60.9,8055.26,0.17,15,69.2,Bachelor's,Male
+40.8,14537.55,0.15,12.1,59.7,High School,Female
+38.3,4492.4,0.05,9.6,53.5,High School,Male
+36.9,9987.34,0.1,19.5,55.1,High School,Male
+31.5,27828.07,0.11,2.8,73.5,Bachelor's,Non-binary
+38.4,12817.42,0.09,13.5,48.8,High School,Female
+32,1628.4,0.21,3.4,68.8,Bachelor's,Female
+36.7,93730.88,0.41,6.5,89.9,PhD,Non-binary
+48.2,11945.62,0.13,7.3,53.1,High School,Male
+24.9,71126.34,0.14,21.3,73,Bachelor's,Male
+46.4,27435.33,0.21,1.4,80.5,Master's,Female
+48.2,28058.34,0.1,12.2,52.2,High School,Female
+33.8,733.59,0.15,21,50.2,High School,Male
+13.8,43298.05,0.08,9.7,50.3,High School,Female
+28.9,45230.25,0.14,29.4,59.6,High School,Male
+48,161218.98,0.41,11.5,89,PhD,Male
+34.8,54582.47,0.4,6.1,84.2,Master's,Female
+25,13295.13,0.11,7.6,66.7,Bachelor's,Female
+30,100756.21,0.39,4.5,75,Master's,Female
+43.4,39146.17,0.39,5.1,75.6,Master's,Male
+40.5,55110.55,0.09,8.3,56.2,High School,Female
+32.6,23791.89,0.29,20.8,83.3,Master's,Male
+31.3,41399.61,0.24,26.1,73.3,Bachelor's,Male
+31.1,79233.94,0.21,0.8,82.5,Master's,Female
+25.8,37076.51,0.28,22,75.5,Master's,Non-binary
+51.2,36146.72,0.14,6.1,50.6,High School,Female
+31.8,3383.59,0.07,6.5,58.7,High School,Female
+47.2,8992.71,0.13,3.6,55.9,High School,Female
+50.2,10867.22,0.17,6,76.9,Bachelor's,Female
+45,76149.64,0.29,8.5,80.5,Master's,Male
+30.7,195468.95,0.27,23,76,Master's,Male
+39,25797.12,0.14,26.2,62.6,High School,Male
+34.8,109755.77,0.16,12.6,73.2,Bachelor's,Male
+26,347.84,0.22,12.7,70.7,Bachelor's,Female
+38.2,14966.09,0.06,39.7,51.4,High School,Male
+23.2,5800.42,0.06,19,56.7,High School,Male
+46.9,2615.88,0.07,18.3,63.3,High School,Male
+30.4,28118.8,0.54,13.1,84.7,PhD,Female
+37,10247.35,0.06,4.7,56.8,High School,Male
+37.8,37686.15,0.17,5.1,64.3,Bachelor's,Female
+32.4,72397.73,0.27,26.3,82.6,Master's,Male
+40.9,41248.16,0.1,13.1,59.6,High School,Male
+30.3,31821.12,0.39,3,82.9,PhD,Female
+43.7,50292.66,0.45,13.6,82.8,PhD,Female
+21.5,39657.01,0.13,13.9,49.8,High School,Male
+36.3,19666.09,0.15,16.4,71.3,Bachelor's,Female
+54.4,531.27,0.1,7.2,62.8,High School,Female
+25,4219.33,0.12,37.7,61.9,High School,Male
+28.2,1134.49,0.09,3.5,57,High School,Female
+40.1,30361.7,0.24,10.4,69.1,Bachelor's,Female
+36.8,25599.45,0.16,13.4,67.5,Bachelor's,Female
+38.5,26969.96,0.11,6.8,53.1,High School,Female
+39.9,7013.54,0.09,10.6,53.8,High School,Female
+41.3,85872.96,0.36,7.1,83.5,PhD,Female
+46.1,28099.39,0.05,7.4,53.6,High School,Female
+39.1,2946.68,0.14,9,55.1,High School,Female
+32.6,42075.31,0.24,5,63.7,Bachelor's,Female
+41.7,173852.21,0.54,15.8,90.5,PhD,Female
+54,8259.06,0.13,8.7,60.7,High School,Female
+33.7,54310.09,0.16,22.9,68.8,Bachelor's,Male
+25.3,100203.08,0.31,13.6,81.1,Master's,Female
+46.1,9030.48,0.09,15.7,57.6,High School,Female
+33.8,55581.82,0.3,12.1,78.1,Master's,Male
+13.3,13617.12,0.08,2,61,High School,Female
+43.5,20368.87,0.2,25.6,67.2,Bachelor's,Male
+29.6,140777.99,0.16,24.7,70.3,Bachelor's,Male
+34.1,34475.45,0.2,3.6,68.7,Bachelor's,Female
+38.3,66940.86,0.07,19.7,52.1,High School,Male
+36.9,44277.44,0.28,4.2,75.9,Master's,Female
+42.1,2999.33,0.09,11.9,51.6,High School,Female
+30.6,267.71,0.12,9.6,54.1,High School,Female
+40.1,4270.9,0.07,3.1,53.5,High School,Male
+32.4,97346.91,0.24,14.8,68,Bachelor's,Male
+42.4,1662.36,0.11,9.2,68.6,Bachelor's,Female
+41.2,17505.49,0.05,18.7,54.7,High School,Non-binary
+25.6,11709.03,0.11,9.4,71.4,Bachelor's,Female
+45.9,18856.76,0.08,22.2,54.7,High School,Male
+29.6,10136.21,0.24,6.9,67.5,Bachelor's,Female
+43.1,8885.39,0.13,12.8,55.3,High School,Female
+38.7,8128.43,0.13,13,62.1,Bachelor's,Female
+53.4,49092.74,0.06,9.7,52.6,High School,Male
+32.8,111697.34,0.36,8.2,77.3,PhD,Female
+31.5,8029.12,0.1,4.2,52.3,High School,Female
+34.8,16972.45,0.13,17.9,54.3,High School,Non-binary
+32,7493.11,0.09,14.5,54.3,High School,Male
+43,91079.08,0.36,1.9,91.3,PhD,Female
+18.8,12038.39,0.33,5.5,76.6,Master's,Female
+24.5,52135.5,0.14,11.9,53.1,High School,Male
+24.3,8804.37,0.2,13.2,64.3,Bachelor's,Female
+44.5,62612.31,0.36,7.1,81.9,Master's,Female
+52.1,21457.38,0.2,11.2,67.2,Bachelor's,Male
+34,4066.52,0.25,8.2,72.4,Bachelor's,Male
+33.3,13796.69,0.14,5.8,59.5,High School,Female
+35.7,15132.31,0.11,14.6,47.7,High School,Male
+46.6,46516.11,0.37,4.7,76.9,Master's,Female
+25.7,326962,0.49,26.3,90.9,PhD,Male
+37.4,522.66,0.22,2,71.2,Bachelor's,Female
+44.8,52955.71,0.15,11.8,57.7,High School,Male
+40,4667.61,0.14,3.3,52.1,High School,Female
+36.9,9423.65,0.4,15.9,78.2,Master's,Non-binary
+45,78995.42,0.32,14.4,83.6,Master's,Non-binary
+8,64253.26,0.32,7.5,83.7,Master's,Female
+41.8,21548.98,0.34,10.3,76.9,Master's,Male
+28.5,31414.72,0.21,5,74.3,Bachelor's,Female
+16.7,1104.97,0.12,12.9,56.3,High School,Male
+40.1,15626.41,0.14,12.7,53.7,High School,Male
+48.7,7150.15,0.25,3.4,79.9,Master's,Male
+33.6,47902.86,0.16,17.8,67.8,Bachelor's,Male
+44.5,17441.95,0.15,2.3,51.5,High School,Female
+51.1,35372.4,0.11,9.1,51.9,High School,Female
+48.1,4520.42,0.19,12.9,70,Bachelor's,Male
+51.4,59811.59,0.09,7.9,51,High School,Male
+42.4,14908.62,0.12,22.8,59.1,High School,Non-binary
+35.8,75414.57,0.2,21.3,69.5,Bachelor's,Male
+19,53.41,0.14,9.9,71,Bachelor's,Male
+32.5,52042.57,0.2,19,74.7,Bachelor's,Male
+26.6,13011.75,0.08,3.8,50,High School,Female
+56.7,5553.99,0.37,15.8,77,Master's,Female
+33.2,12341.04,0.12,24.6,56.1,High School,Male
+36.2,3019.47,0.05,22.3,49.8,High School,Male
+40.5,726.96,0.31,13.8,77,Master's,Female
+35.4,101163.31,0.18,8.5,70.4,Bachelor's,Female
+52,40152.17,0.32,14,76.6,Master's,Male
+28.8,10993.22,0.11,9.2,69.9,Bachelor's,Non-binary
+36.9,36432.62,0.23,46.6,71.1,Bachelor's,Male
+27.6,20975.63,0.13,12.6,51.7,High School,Male
+21.8,17860.63,0.12,6.2,48.5,High School,Female
+28.9,3431,0.11,7.4,61.9,High School,Male
+34.6,19296.21,0.13,14.4,57.8,High School,Female
+30.7,83167.82,0.5,19.7,83.2,PhD,Male
+28.1,23039.93,0.13,9.3,48,High School,Male
+20.9,9391.19,0.39,5.1,90.2,Master's,Non-binary
+34.2,37417.01,0.11,4.8,67.4,Bachelor's,Male
+20,6242.42,0.32,8.9,82.6,Master's,Female
+42.6,82328.33,0.11,16.6,64.9,Bachelor's,Male
+35.8,56110.13,0.14,12.1,73.3,Bachelor's,Male
+20.4,79696.01,0.19,22.9,71,Bachelor's,Male
+31.9,7261.61,0.11,7.9,57.4,High School,Female
+27.5,68290.13,0.27,31.1,76.3,Master's,Male
+38.2,338.5,0.08,2.4,58.1,High School,Female
+48.4,9659.95,0.12,14.2,59,High School,Male
+16.2,56465.11,0.17,10.9,70.9,Bachelor's,Non-binary
+36.2,83620.88,0.09,5.1,51.1,High School,Male
+33.4,33157.07,0.45,4.2,76.7,PhD,Female
+41.7,40959.99,0.37,14.7,82.3,PhD,Female
+37.1,42867.64,0.43,10.4,93,PhD,Female
+27.5,1014.64,0.13,16.8,51.9,High School,Female
+31.8,16740.81,0.15,4.1,64.8,High School,Female
+27,69731.52,0.43,6.4,82.8,PhD,Female
+45.8,6509.67,0.16,8.4,66.6,Bachelor's,Male
+35.2,7242.04,0.46,19,87.7,PhD,Male
+54,164403.68,0.47,6.5,85.7,PhD,Female
+34.4,4625.58,0.31,15.4,85.6,Master's,Female
+27.9,8075.18,0.08,3.9,54.1,High School,Female
+19.9,21733.16,0.06,33.5,50.4,High School,Male
+17,118191.58,0.32,26.6,79.8,Master's,Male
+19.2,23868.1,0.13,24.7,51.7,High School,Male
+37.7,5191.07,0.14,3.6,57.2,High School,Female
+40.1,1973.73,0.16,17,66.7,Bachelor's,Male
+19.2,104284.56,0.54,21.1,90.5,PhD,Male
+44,144309.4,0.1,40.2,69.7,Bachelor's,Male
+30.2,4323.33,0.22,11.5,69.3,Bachelor's,Male
+36.5,16523.24,0.09,2.4,50.7,High School,Female
+51.1,43917.34,0.24,13.9,68.8,Bachelor's,Male
+44,3965.71,0.51,13.2,79.2,PhD,Female
+32.3,21281.59,0.09,25.4,60.1,High School,Male
+26.1,47913.73,0.22,19.1,70.9,Bachelor's,Male
+13.5,44912.8,0.39,17.7,74.6,Master's,Male
+27.8,82535.56,0.31,9,82,Master's,Male
+32.9,2948.94,0.19,24,63.8,Bachelor's,Male
+25.1,92246.98,0.22,15.3,80.5,Master's,Male
+33.7,2853.91,0.07,4.8,52.8,High School,Female
+35.8,12171.71,0.1,16.3,54.5,High School,Male
+32.8,27022.04,0.37,4,77.1,Master's,Female
+28.5,4133.59,0.31,9.1,80,Master's,Female
+36.7,117824.5,0.31,17.9,88.4,Master's,Female
+39.4,5598.82,0.54,27.2,87.4,PhD,Male
+24.1,16888.67,0.11,8.6,63.4,Bachelor's,Male
+49.1,21282.46,0.25,21.5,70.5,Bachelor's,Male
+34,249946.25,0.23,13.9,76.8,Master's,Male
+35.2,167.85,0.2,15.2,70.4,Bachelor's,Non-binary
+42.1,44433.53,0.3,14.7,80.4,Master's,Male
+37.3,109566.99,0.26,14.1,82,Master's,Male
+44.5,15142.27,0.22,4.4,82.5,Master's,Female
+37.9,12667.3,0.1,16,59.2,High School,Female
+28.9,1208.25,0.08,6.6,57,High School,Female
+38.6,42615.04,0.07,14.3,53.6,High School,Male
+23.6,25299.76,0.25,8.9,67.6,Bachelor's,Male
+36.1,21000.99,0.09,9.3,59.3,High School,Female
+34.7,85797.09,0.22,28.4,70.6,Bachelor's,Male
+32.9,7238.79,0.16,17.8,68.5,Bachelor's,Male
+33.7,12369.65,0.1,47.6,56.6,High School,Male
+16.2,24200.77,0.12,8.3,66.7,Bachelor's,Male
+29.5,71551.18,0.14,30.8,60.5,High School,Male
+35.9,15870.38,0.09,13.3,50.3,High School,Male
+36.6,50448.27,0.32,4.2,90.3,Master's,Female
+24.7,13514.2,0.07,11.6,49.6,High School,Female
+47.7,408.35,0.09,12.3,48.5,High School,Female
+26.3,56989.91,0.19,25.2,71.7,Bachelor's,Male
+44.7,111562.12,0.32,16.4,78.4,Master's,Male
+39.3,13036.22,0.11,17,52.6,High School,Male
+28.5,10877.97,0.1,8.3,74,Bachelor's,Female
+52.8,387.8,0.11,16.8,51.4,High School,Female
+23.1,4599.75,0.1,6.2,58.4,High School,Male
+44.2,16741.68,0.18,15.1,78.5,Bachelor's,Female
+45,10489.06,0.1,28.1,73.7,Bachelor's,Male
+28.3,29077.85,0.22,7.5,70.7,Bachelor's,Female
+48.9,77601.12,0.38,9.2,77.7,Master's,Female
+32.5,17716.06,0.4,6,81.8,PhD,Female
+37.9,25919.41,0.19,7.5,67.1,Bachelor's,Female
+37.6,1470.13,0.07,8.5,55.8,High School,Female
+33.7,20226.5,0.26,14.3,85.3,Master's,Male
+43.1,25643.83,0.14,1.4,59.7,High School,Female
+42.9,8015.05,0.23,15.7,77.6,Bachelor's,Male
+17.5,18184.35,0.14,24.1,58,High School,Female
+48,20376.45,0.08,14.6,53.9,High School,Female
+18.4,19943.71,0.38,14,86.8,PhD,Female
+45.3,58234.15,0.33,10.5,83.2,Master's,Male
+46.3,11994.75,0.16,4.9,73.1,Bachelor's,Female
+24.1,120107.36,0.2,16.5,74,Bachelor's,Female
+30.9,23229.28,0.12,18.4,52.2,High School,Female
+23.9,12003.4,0.06,21.1,57.1,High School,Male
+32.9,5560.86,0.1,12.2,61.5,High School,Male
+31.9,26768.84,0.2,23.4,68,Bachelor's,Male
+42.8,26339.28,0.24,24.7,74.3,Master's,Male
+48.1,76789.65,0.16,11.8,64,Bachelor's,Female
+49,1547.17,0.1,6.8,50.4,High School,Male
+29.4,28573.71,0.41,19.3,83.5,PhD,Non-binary
+32.9,164375.96,0.37,24.1,82.9,Master's,Male
+18.2,7614.64,0.2,34.1,65.5,Bachelor's,Male
+26.9,22217.81,0.2,8.5,74.9,Bachelor's,Female
+44.6,4088.96,0.15,12.7,69.5,Bachelor's,Female
+51.2,26055.31,0.13,25.9,56.4,High School,Male
+22.7,46626.35,0.08,14,56.6,High School,Female
+29.1,75863.73,0.34,5.4,77.1,Master's,Female
+34.7,49533.79,0.07,4.7,54.2,High School,Male
+37.8,37822.5,0.09,6.4,62.2,High School,Non-binary
+26.9,36211.78,0.1,6.9,55.4,High School,Non-binary
+39.2,14834.11,0.1,13.3,62.2,High School,Female
+30.3,148628.58,0.34,6.7,81.9,Master's,Male
+34.9,66869.73,0.27,14.5,83.7,Master's,Female
+40.5,62032.15,0.12,14.5,70.3,Bachelor's,Male
+35.1,23951.47,0.08,10.7,55.7,High School,Male
+30.6,136719.19,0.14,24.4,65.9,Bachelor's,Male
+33.9,517.11,0.18,38.6,68.8,Bachelor's,Male
+34.1,7370.64,0.09,6.5,44.1,High School,Female
+31.3,67825.68,0.18,8.4,73.8,Bachelor's,Female
+32.4,2382.9,0.15,5.4,55.9,High School,Female
+51,43429.12,0.16,14.8,67.8,Bachelor's,Male
+40.6,73795.9,0.13,26.2,66,Bachelor's,Male
+32,14701.01,0.08,23.6,62.3,High School,Male
+42,14384.68,0.08,14.3,55,High School,Non-binary
+31.7,121651.62,0.15,4.7,70.1,Bachelor's,Male
+46.7,7310.73,0.16,5,71.9,Bachelor's,Female
+38.7,10287.2,0.22,2.6,82.7,Master's,Female
+33.9,61798.09,0.24,15,70.1,Bachelor's,Male
+39.5,6863.8,0.09,9.9,50.8,High School,Female
+19.3,30441.55,0.06,3.8,54.6,High School,Male
+23.7,51888.62,0.15,7.7,68.2,Bachelor's,Female
+23.1,18011.79,0.1,14.1,54.2,High School,Female
+36.4,215782.46,0.17,41.6,76,Bachelor's,Male
+52.3,168568.91,0.4,17.6,86.2,PhD,Male
+57.3,13568.17,0.1,7.2,67.7,Bachelor's,Female
+41.4,4280.94,0.13,6.4,50.7,High School,Female
+40,12768.41,0.11,9.1,66.8,Bachelor's,Male
+17,25949.34,0.14,7.4,73.7,Bachelor's,Female
+29.6,75424.98,0.17,6.3,68.8,Bachelor's,Female
+27.1,9035.64,0.54,2.5,80.8,PhD,Female
+28.8,9270.07,0.07,24.7,50.8,High School,Male
+33.3,10454.07,0.48,3.6,86.9,PhD,Female
+30.3,62931.75,0.37,17.6,83.1,PhD,Female
+15.2,6807.32,0.14,8.6,61.3,High School,Male
+42.5,65525.45,0.14,26.2,55.3,High School,Male
+24.3,43819.33,0.07,8.7,51.6,High School,Non-binary
+37.4,11994.12,0.1,8.3,49.1,High School,Male
+55.7,18803.4,0.07,6.1,60.8,High School,Female
+25.8,64561.65,0.2,8.2,70.1,Bachelor's,Male
+9.7,19007.12,0.06,13.8,53,High School,Male
+32.1,5123.02,0.15,17.5,54.6,High School,Female
+46,36487.03,0.21,8.9,82.2,Master's,Male
+54.6,2435.49,0.13,3.4,54.5,High School,Female
+22.7,334065.12,0.28,24.4,84.8,Master's,Male
+40,3411.41,0.06,16.7,49.1,High School,Female
+30.3,59921.85,0.14,19.8,50,High School,Male
+33.9,48462.12,0.15,8,65.6,Bachelor's,Male
+61.4,36299.89,0.22,10.4,68.9,Bachelor's,Non-binary
+20,22774.99,0.26,20.3,78.7,Master's,Male
+37.5,51444.81,0.34,6.7,78.1,Master's,Female
+39.7,53177.88,0.36,8.9,82.1,Master's,Male
+45.9,1862.08,0.14,6.5,50.6,High School,Female
+36,1376.51,0.11,10.5,59.6,High School,Male
+38.1,34235.32,0.22,6,77.9,Master's,Non-binary
+31.1,203042.17,0.2,16.3,78.9,Master's,Male
+37.7,15783.66,0.41,32.3,87.7,PhD,Male
+31.6,37975.25,0.23,18,66.8,Bachelor's,Male
+41.2,18354.49,0.07,8.5,54,High School,Male
+31.3,26059.38,0.35,6.4,82.4,Master's,Female
+38.8,72908.55,0.12,19.1,54,High School,Male
+34.7,20595.88,0.5,15.9,78.3,PhD,Female
+46.3,46304.88,0.27,36.1,77.7,Master's,Male
+34.5,20799.57,0.24,18.3,58.4,Bachelor's,Male
+17.3,80428.23,0.36,6.5,84.6,Master's,Female
+47.6,25277.65,0.36,16.8,79.1,Master's,Female
+25.9,23425.64,0.12,25.6,53.7,High School,Male
+28.5,6314.9,0.43,21.2,89.4,PhD,Male
+29,28726.76,0.21,13.3,65.5,Bachelor's,Male
+48.7,77491.42,0.31,4.8,82,Master's,Female
+13.6,5522.97,0.12,8.1,51.5,High School,Female
+66.4,191716.85,0.31,22.2,69.6,Master's,Male
+45.6,4649.34,0.09,3.6,58,High School,Female
+37.2,29231.53,0.11,4.1,50.3,High School,Female
+34.5,104190.51,0.47,11.5,77.6,PhD,Female
+37.9,16727.12,0.06,15.1,58.5,High School,Female
+40.2,3051.13,0.08,26,48.4,High School,Male
+41.5,76965.81,0.52,12.9,91,PhD,Male
+40.6,244503.57,0.37,24.5,83.7,PhD,Male
+35.9,27010.9,0.12,22.1,71.4,Bachelor's,Male
+33,24526.91,0.2,4.7,72.5,Bachelor's,Female
+33.5,62447.04,0.2,7.6,62.5,Bachelor's,Female
+33.1,73444,0.12,32.6,48.2,High School,Male
+46.3,1302.56,0.12,7.2,55.8,High School,Male
+40.9,17311.07,0.18,18.2,65.4,Bachelor's,Male
+5.6,26746.29,0.32,18.7,81.4,Master's,Female
+41.6,109250.23,0.38,24,74.9,Master's,Male
+36.9,61525.48,0.32,9.6,81.5,Master's,Female
+34.8,16150.19,0.1,12.8,49.4,High School,Male
+31.1,78511.22,0.13,6,70.4,Bachelor's,Male
+46.2,11462.75,0.12,11.4,56.8,High School,Non-binary
+44.5,17047.27,0.24,24,63.2,Bachelor's,Non-binary
+27.3,33499.3,0.15,23.1,69.9,Bachelor's,Male
+39.1,28697.22,0.38,1.6,77.8,Master's,Non-binary
+25.3,12876.52,0.12,8.1,64.6,High School,Female
+21.2,4319.78,0.1,7.5,56.5,High School,Female
+28.7,1868.37,0.06,27,52.1,High School,Male
+43.6,39369.04,0.35,2.5,77.6,Master's,Female
+44.5,41276.6,0.12,3.9,74.7,Bachelor's,Male
+40.1,4869.84,0.09,2,54.1,High School,Female
+42.3,14307.91,0.11,18.4,50.1,High School,Male
+40.2,9470.77,0.27,6.5,75.5,Master's,Male
+28.6,34919.62,0.15,37.5,56.1,High School,Male
+39.3,67584.31,0.26,10,84.1,Master's,Female
+43,51085.61,0.3,23.8,76.1,Master's,Male
+42.5,41368.04,0.06,8.2,50.4,High School,Female
+46.9,48791.2,0.11,13.3,51.9,High School,Non-binary
+42.1,229304.42,0.46,17,80.1,PhD,Male
+38.5,1678.3,0.05,18.2,60.5,High School,Female
+45.7,1993.73,0.12,32.8,48.5,High School,Male
+34.7,48005.03,0.23,9.3,78,Master's,Female
+26.2,254269.48,0.48,30.3,90.7,PhD,Male
+33.4,78148.11,0.38,6.1,88.1,PhD,Female
+27.6,20051.16,0.24,11.9,84.5,Master's,Female
+28.2,10284.07,0.07,9.8,54.6,High School,Female
+33.6,10114.55,0.06,20.4,54,High School,Female
+27.1,19704.75,0.23,9.5,78.4,Master's,Male
+31.9,26667.71,0.1,1.9,75.9,Bachelor's,Female
+16.1,18888.82,0.22,14.7,70.3,Bachelor's,Female
+37.1,195559.26,0.43,13.3,81.6,PhD,Female
+35,3444.46,0.14,23.6,55.7,High School,Male
+26.8,14451.84,0.24,5.7,71.7,Bachelor's,Female
+41.6,6459.61,0.12,12,57.6,High School,Female
+44.4,2109.45,0.16,5.8,73.2,Bachelor's,Female
+18.9,8714.65,0.15,20.3,59.8,High School,Male
+27.4,9121.6,0.14,4.5,53,High School,Female
+27.3,70811.87,0.07,12.6,52.6,High School,Male
+25.6,29985.05,0.17,11.6,75.7,Bachelor's,Female
+43.3,21772.79,0.21,11.9,74.9,Master's,Male
+33.1,14022.1,0.16,2.4,69.6,Bachelor's,Female
+32.4,87540.61,0.53,6.1,91.7,PhD,Non-binary
+15,13045.94,0.12,14.5,59,High School,Male
+41.4,14049.3,0.05,16.3,53.9,High School,Non-binary
+22.6,38577.98,0.4,14.8,80.4,Master's,Male
+35.6,11152.73,0.14,11.2,60.4,High School,Female
+37.8,159823.77,0.44,8,86.5,PhD,Female
+48.6,7805.49,0.15,10.9,51.9,High School,Female
+21.9,63830.37,0.43,14.5,84.9,PhD,Female
+4.8,3650.39,0.13,9,47.6,High School,Female
+36.8,53235.82,0.37,12.1,80.4,Master's,Male
+53,10273.47,0.12,11.9,69.4,Bachelor's,Male
+47.4,20647.96,0.38,6.4,91,PhD,Female
+37.1,44994.42,0.08,21.1,49.7,High School,Female
+30.1,70966.19,0.17,11.1,69.8,Bachelor's,Female
+43.1,329384.08,0.36,3.2,81.1,PhD,Female
+25.3,9778.1,0.11,3,73.9,Bachelor's,Male
+39.8,47659.88,0.12,7.9,64.8,Bachelor's,Female
+40.1,1319.08,0.22,2.1,77.7,Bachelor's,Male
+45.6,45920.71,0.23,7.5,63.2,Bachelor's,Female
+62.6,23663.99,0.23,30,80.6,Bachelor's,Male
+38.9,19641.44,0.19,32.3,70,Bachelor's,Male
+29.9,72358.35,0.41,35.7,87.2,PhD,Male
+34.7,3698.42,0.11,11.5,52.3,High School,Male
+17.3,107513.03,0.06,9.3,48.7,High School,Female
+28.1,10341.76,0.38,15.2,78.2,PhD,Male
+30.9,31959.14,0.22,12,80.3,Master's,Male
+29.8,163101.88,0.24,12.8,73.4,Bachelor's,Male
+36.5,297.75,0.22,34.4,70.6,Bachelor's,Male
+26.8,2298.45,0.07,36,53.7,High School,Male
+46.2,7149.84,0.09,21.7,55.1,High School,Male
+35,42275.44,0.25,5.8,78,Bachelor's,Female
+34.9,8324.46,0.07,19.5,64.1,High School,Female
+31.7,61423.45,0.17,9.6,71,Bachelor's,Female
+36.6,28496.29,0.1,43.1,48.9,High School,Male
+43.3,113406.55,0.42,24.3,83.4,PhD,Male
+26.3,34089.22,0.44,12.3,80.5,PhD,Female
+28.4,21183.48,0.22,9.3,74.3,Bachelor's,Female
+32,13065.07,0.13,16.8,67.8,Bachelor's,Male
+21.5,7254.08,0.05,20.4,43.4,High School,Male
+26.8,286464.7,0.31,28.2,82.4,Master's,Male
+30.2,7208.82,0.19,28.5,76.5,Bachelor's,Male
+43.7,11166.83,0.06,15.6,57.5,High School,Male
+37.6,40133.33,0.52,5.3,82,PhD,Female
+36.9,126509.7,0.39,7.7,75,Master's,Female
+43.5,30970.38,0.46,10.8,88.8,PhD,Female
+33.6,2970.21,0.21,7,76.4,Master's,Female
+38.9,13956.5,0.15,8.2,66,Bachelor's,Female
+34,11849.45,0.25,7.3,67.7,Bachelor's,Female
+37.7,58826.98,0.47,30.4,88.1,PhD,Non-binary
+29.2,105733.08,0.32,6.1,75.6,Master's,Male
+10.6,27112.98,0.06,19,51.7,High School,Male
+33.7,44226.5,0.05,27.3,57.7,High School,Male
+49.2,9868.73,0.07,3.8,52.7,High School,Female
+44.3,54219.33,0.31,3.7,75.5,Master's,Female
+44.7,41052.87,0.4,9.8,91.6,PhD,Male
+47.4,3923.22,0.09,7,52.1,High School,Female
+35.9,179947.52,0.24,25.4,65.5,Bachelor's,Male
+37,11281.11,0.13,14,51.4,High School,Female
+28.8,223614.44,0.42,21.6,83.4,PhD,Male
+31.8,101573.14,0.2,14.5,79.3,Master's,Male
+41.2,33562.33,0.34,24.1,83.7,Master's,Male
+47,16705.06,0.17,22.8,67.6,Bachelor's,Male
+33.6,56671.09,0.25,10.1,74.3,Bachelor's,Male
+30.5,59190.31,0.07,23.6,61.4,High School,Male
+35,13439.23,0.08,8,58.4,High School,Female
+41,123100.91,0.31,10,72.8,Master's,Female
+20.6,61434.57,0.21,10.3,72.1,Master's,Male
+12,16048.32,0.45,6.2,84.7,PhD,Female
+29.5,23884.09,0.44,3.8,82.6,PhD,Female
+22.8,71786.95,0.22,24.2,71.3,Bachelor's,Male
+29.9,10163.99,0.33,26.8,87.4,Master's,Male
+33.5,73579.22,0.46,3.7,88.9,PhD,Male
+30.5,85577.09,0.22,15.1,81.6,Master's,Male
+49.5,2291.15,0.12,12.6,47.8,High School,Female
+38.3,8561.03,0.12,7.9,70.3,Bachelor's,Male
+38,10075.58,0.06,10.2,59.2,High School,Female
+41.2,161996.02,0.52,9.9,83.4,PhD,Female
+23.6,23338.92,0.24,19.4,67.5,Bachelor's,Male
+45.4,28826.42,0.12,3.5,51.4,High School,Female
+34.2,48920.45,0.15,49.2,73.8,Bachelor's,Male
+41.7,12236.64,0.14,24.5,73.1,Bachelor's,Non-binary
+24.3,88000.79,0.15,5.2,57,High School,Male
+19.5,27601.11,0.11,10.2,56.4,High School,Female
+43.2,129425.9,0.24,7.6,66.5,Bachelor's,Female
+38.8,1956.85,0.15,26.5,68.5,Bachelor's,Male
+26,3173.96,0.29,8,87.4,Master's,Female
+26.3,105553.39,0.2,9.2,67,Bachelor's,Non-binary
+46.3,201379,0.27,8.1,80.2,Master's,Female
+23.1,14046.25,0.2,10.4,66,Bachelor's,Female
+51.4,12138.01,0.12,10.3,73.7,Bachelor's,Female
+26,3411.3,0.32,28.6,79.5,Master's,Male
+41.4,29515.08,0.11,21.1,73.9,Bachelor's,Male
+31.7,27549.12,0.07,7.4,56.2,High School,Female
+41,5131.29,0.06,31.1,48.7,High School,Male
+29.6,96186.83,0.35,2.2,79.1,Master's,Female
+33.4,13412.83,0.18,3.1,74.7,Bachelor's,Female
+35.4,118712.19,0.32,9.1,78,Master's,Male
+25,1408.6,0.11,27.1,53.1,High School,Male
+42.4,282.45,0.05,9.2,52.8,High School,Female
+29.9,10324.56,0.11,11.3,59,High School,Male
+32.7,431.5,0.12,9.9,61.2,High School,Female
+25.1,53982.75,0.13,13.2,72.1,Bachelor's,Male
+9.4,2156.81,0.06,10.6,50.4,High School,Female
+33.1,5359.61,0.22,18.6,71.9,Bachelor's,Male
+59.1,77046.49,0.51,11,87.6,PhD,Female
+42.8,8089.48,0.11,12.3,56.8,High School,Male
+34.8,101420.7,0.11,9.3,72.1,Bachelor's,Female
+32.4,16249.93,0.25,16.5,76.7,Master's,Male
+35.2,39410.63,0.07,3.9,55,High School,Female
+40.5,77695.35,0.12,10.2,76.5,Bachelor's,Female
+23.2,22269.32,0.23,21.4,85.9,Master's,Male
+46.1,44434.21,0.44,14.4,87.2,PhD,Male
+42.2,99378.57,0.08,11.8,58.5,High School,Male
+42.2,23262.71,0.53,5.6,77.2,PhD,Female
+39.4,72371.01,0.12,10.3,69.8,Bachelor's,Female
+35.2,46616.15,0.12,6,57,High School,Female
+41.7,10014.12,0.15,6.2,75.4,Bachelor's,Male
+40.9,18291.96,0.38,20.3,83.6,PhD,Male
+31.5,7028.11,0.11,4.3,75.4,Bachelor's,Female
+29.3,18494.97,0.12,21.4,50,High School,Male
+36,39633.46,0.14,3,73.9,Bachelor's,Non-binary
+50.5,20227.24,0.13,43.7,54.6,High School,Male
+22.6,2858.68,0.12,10.6,50.6,High School,Female
+20.3,38453.83,0.06,24.6,58.2,High School,Male
+36.6,57843.05,0.09,20,48.1,High School,Male
+35.5,5945.62,0.13,16.6,47.3,High School,Female
+36.7,45216.06,0.07,14.4,51.5,High School,Female
+37.4,2786.21,0.14,23.4,73.4,Bachelor's,Non-binary
+32.8,24069.13,0.12,10.9,60.8,High School,Male
+49.9,3790.49,0.13,10.4,49.3,High School,Male
+19,59156.21,0.28,9.5,79,Master's,Female
+26.7,54816.18,0.25,4.9,71.7,Bachelor's,Female
+34,14789.62,0.2,36.7,70,Bachelor's,Male
+18.6,38046.8,0.06,38.9,58.4,High School,Male
+33.2,80018.32,0.07,11.9,53.9,High School,Male
+51.6,27081.27,0.09,3,53,High School,Female
+35.2,10053.44,0.15,19.9,50.3,High School,Male
+37.3,102753.76,0.13,11.5,53.8,High School,Male
+22.4,1743.47,0.06,7.2,57.9,High School,Male
+28.8,16479.72,0.13,15.4,55.5,High School,Male
+31.2,29592.05,0.12,8.7,60.5,High School,Male
+31.8,2346.24,0.15,8.7,64.5,Bachelor's,Female
+47.8,133901.29,0.1,26,60.5,High School,Male
+40.6,14478.29,0.14,7.3,53.7,High School,Female
+23.9,44501.28,0.19,14.7,67.1,Bachelor's,Male
+37.5,42622.09,0.15,8.4,67.3,Bachelor's,Female
+40,2837.56,0.15,13.8,53.9,High School,Female
+46.4,80472.19,0.23,0.9,84.1,Master's,Female
+50.8,645.6,0.19,7.8,69,Bachelor's,Female
+24.8,13184.88,0.12,15.3,55,High School,Male
+26.9,110677.27,0.25,25.9,74.6,Master's,Male
+22.4,21610.48,0.48,13.3,86.7,PhD,Female
+32.7,10744.34,0.08,21.3,52.6,High School,Non-binary
+39.7,10707.77,0.07,9.9,62.8,High School,Female
+44.9,24882.16,0.4,8.1,91.1,Master's,Female
+34.2,139214.84,0.36,7.7,77.6,Master's,Female
+31.8,30439.94,0.11,16.5,54.4,High School,Male
+36.5,6770.94,0.14,12.8,49.5,High School,Male
+26.6,48673.12,0.1,10,50.7,High School,Female
+55.9,18852.74,0.11,14.8,70.5,Bachelor's,Non-binary
+18.9,28424.15,0.22,10,68.7,Bachelor's,Male
+36.8,41786.12,0.12,7.4,50.4,High School,Female
+55.2,34958.51,0.11,40.9,65.1,Bachelor's,Male
+35.1,49359.89,0.22,18.4,83.8,Master's,Female
+33.1,4610.67,0.11,10.6,58.7,High School,Male
+31.4,26857.91,0.11,29.9,57.9,High School,Male
+33.2,4585.84,0.27,5.3,83.6,Master's,Female
+48.7,20022.26,0.25,11.5,84.5,Master's,Male
+12.9,16945.45,0.14,1.4,64.9,Bachelor's,Female
+50.3,227.75,0.2,13.2,65,Bachelor's,Female
+20.8,2536.59,0.07,12.5,53.1,High School,Female
+32.3,46766.84,0.15,13.6,70.5,Bachelor's,Male
+30.7,70488.43,0.22,14.3,69.5,Bachelor's,Male
+40.9,35464.58,0.1,30.2,57.4,High School,Male
+19,47667.5,0.06,24.9,57,High School,Non-binary
+39.6,3588.53,0.13,13.8,57.2,High School,Female
+55.2,5460.71,0.15,2.3,55.5,High School,Female
+21.4,13720.52,0.11,1.3,50.3,High School,Female
+36.9,51649.4,0.05,3.9,55.2,High School,Female
+28.4,43074.88,0.12,13.2,53.9,High School,Female
+39.3,320.88,0.1,15.7,51.8,High School,Male
+35.2,64589.94,0.3,12,80,Master's,Female
+28.6,31879.34,0.12,20.4,70.5,Bachelor's,Male
+39.9,30388.19,0.12,18.1,69.5,Bachelor's,Female
+53,40911.9,0.21,9.9,83.1,Master's,Female
+33.1,54488.69,0.25,8.3,67.5,Bachelor's,Female
+42.2,14565.37,0.13,7.5,63,High School,Male
+22.1,4499.13,0.16,27.7,78.1,Bachelor's,Male
+25.4,93072.45,0.11,6.2,72.3,Bachelor's,Male
+39.7,11592.12,0.34,6.5,78.5,Master's,Male
+49.8,46842.04,0.15,24.9,72.6,Bachelor's,Male
+38.6,4300.35,0.12,14.4,49.9,High School,Female
+31.9,2169.48,0.14,9.5,54.2,High School,Female
+35,4209.07,0.12,23.9,50.9,High School,Male
+22.5,5367.45,0.18,26,70.1,Bachelor's,Male
+41,144063.96,0.18,14.2,73,Bachelor's,Male
+43.8,30163.39,0.1,8,59.8,High School,Female
+30.5,142675.47,0.43,6.4,84.9,PhD,Female
+30.3,21668.23,0.19,5.2,69.7,Bachelor's,Female
+37.7,9756.82,0.06,10.4,60.8,High School,Male
+30.6,59629.16,0.08,6.5,47.4,High School,Non-binary
+34.3,572.68,0.08,8.9,53.5,High School,Female
+56,19255.69,0.09,15.4,54.6,High School,Male
+32.5,4779.39,0.07,7.8,56.5,High School,Female
+31.4,34202.86,0.07,22.2,54.8,High School,Male
+28.5,23928.11,0.08,9.1,53.7,High School,Female
+42.4,5505.29,0.12,4.6,53.6,High School,Male
+33.2,116179.69,0.27,11.3,81.7,Master's,Female
+28.5,6152.38,0.14,3.7,54.9,High School,Female
+48.2,2735.71,0.13,17,64.7,Bachelor's,Female
+49.2,120010.08,0.16,16,63.2,Bachelor's,Female
+29,145440.08,0.48,42.5,86.3,PhD,Male
+16.3,7390.78,0.12,4.6,55.2,High School,Male
+45.1,8562.5,0.07,11.6,61,High School,Male
+28.2,56587.06,0.5,17.6,84.2,PhD,Male
+42.9,151532.99,0.33,12.7,76.5,Master's,Female
+15.3,52757.14,0.27,6.8,81.2,Master's,Male
+43.9,3681.3,0.1,12.3,56.6,High School,Non-binary
+22.9,15697.17,0.14,9.3,52.5,High School,Female
+42.3,2079.14,0.13,1.8,70.2,Bachelor's,Female
+35.1,163206.39,0.49,7.6,83.9,PhD,Male
+25.5,11467.38,0.14,6.8,71.1,Bachelor's,Female
+30.9,9405.43,0.17,7.2,67.9,Bachelor's,Female
+41.9,43453.77,0.1,17.3,55.6,High School,Male
+36.1,46178.22,0.23,4.7,83.5,Master's,Female
+40.8,3773.94,0.06,18.7,48.3,High School,Female
+54.8,533.45,0.13,24.9,52,High School,Male
+19.4,5036.46,0.2,10.1,68.3,Bachelor's,Female
+51.2,73280.96,0.24,21.7,68.1,Bachelor's,Male
+36,44313.29,0.07,5.5,52.5,High School,Male
+26,29159.2,0.09,31.8,52.2,High School,Male
+21.7,141780.34,0.14,12.8,71,Bachelor's,Male
+33.1,12350.4,0.06,16.6,54,High School,Male
+44.2,20730.02,0.22,25.5,66.1,Bachelor's,Male
+33.7,3330.84,0.09,10.3,56.5,High School,Non-binary
+50.1,39307.59,0.13,6.8,68.2,Bachelor's,Female
+20.5,4473.26,0.19,5.4,75.3,Bachelor's,Non-binary
+34.9,58151.21,0.11,8.8,47.6,High School,Male
+22.5,11422.72,0.13,20.3,58.6,High School,Male
+38.6,35904.99,0.14,3.2,56.5,High School,Female
+43.9,18852.93,0.12,23.8,50.4,High School,Male
+30.8,191594.78,0.49,6,86.5,PhD,Male
+9,9972.26,0.07,6.4,54.8,High School,Female
+37,67051.67,0.32,20.9,79,Master's,Male
+39.4,28954.67,0.07,3.6,54.3,High School,Female
+39,117738.51,0.23,8.3,70.8,Bachelor's,Female
+47.4,334802.68,0.22,12,74.4,Master's,Male
+24.3,126541.29,0.11,17.9,75.1,Bachelor's,Male
+41.8,28598.82,0.2,5.4,74.1,Bachelor's,Female
+46.9,10408.41,0.22,18.2,68.4,Bachelor's,Male
+17.2,34470.55,0.12,9.6,59.2,High School,Male
+38.2,56583.85,0.54,11.6,85.8,PhD,Non-binary
+30,12941.65,0.28,34.8,83.2,Master's,Male
+34.2,170459.25,0.42,2.9,83.4,PhD,Female
+38.5,25787.56,0.08,18.5,52.1,High School,Non-binary
+30.1,126392.27,0.28,15.3,68.7,Master's,Male
+28.2,56629.22,0.42,17.3,83,PhD,Male
+35.3,17828.94,0.12,11.2,59.6,High School,Male
+24.1,7801.67,0.14,22.7,62.4,High School,Male
+24.1,2497.93,0.32,16.9,83.9,Master's,Male
+41.8,25251.42,0.15,2.9,66.5,Bachelor's,Female
+23.5,4548.58,0.21,22.5,70.4,Master's,Male
+41.7,12358.32,0.1,5.3,52.2,High School,Female
+39.6,14744.83,0.29,8.7,82.1,Master's,Non-binary
+17.7,4548.88,0.11,10.3,53.8,High School,Female
+28.2,1214.3,0.08,19.8,59.9,High School,Female
+46.9,21767.54,0.12,1.7,52.8,High School,Male
+25.2,47162.16,0.38,18.6,80.1,Master's,Female
+30.4,24887.39,0.17,17,68.1,Bachelor's,Female
+39.6,30088.59,0.14,15.9,70.8,Bachelor's,Male
+42.8,14587.78,0.11,13.3,55.1,High School,Male
+32.5,99296.46,0.33,6.4,75,Master's,Female
+29,65794.73,0.14,9.7,55.9,High School,Male
+49.2,63431.25,0.21,10.6,83.6,Master's,Male
+52.4,29542.7,0.19,18.1,66.5,Bachelor's,Male
+44.8,19975.21,0.06,14.6,58.9,High School,Male
+35.9,44382.01,0.2,21.6,69.9,Bachelor's,Female
+26.9,6396.43,0.09,13.9,47.8,High School,Female
+26.7,64549.8,0.38,4.8,78.7,Master's,Female
+40.2,18131.26,0.18,33.6,73,Bachelor's,Male
+39.2,1175.05,0.09,27.9,49.9,High School,Male
+49,46454.3,0.28,31.4,78.2,Master's,Male
+41.5,34445.01,0.1,42.2,52.2,High School,Male
+20,14600.8,0.17,8.3,69.8,Bachelor's,Male
+45.5,235854.67,0.5,5.6,91.4,PhD,Female
+25,136077.92,0.23,17,72.6,Bachelor's,Male
+31.2,23841.79,0.11,9,48.1,High School,Female
+37.5,2551.36,0.49,3.6,85.9,PhD,Male
+55,43418.5,0.18,37.2,67.1,Bachelor's,Male
+66.1,19254.38,0.13,48,54.9,High School,Male
+41.1,11254.42,0.08,23.1,56.8,High School,Non-binary
+33.2,29142.14,0.21,6.5,75.2,Master's,Female
+40.3,12327.83,0.2,25.9,73.2,Bachelor's,Non-binary
+43.9,2733.66,0.18,5.4,67.6,Bachelor's,Male
+31.8,228362.44,0.35,20.7,81.9,Master's,Male
+53,194430.66,0.34,16.1,84.2,Master's,Female
+37.3,17472.28,0.06,17.3,56,High School,Male
+40,10539.72,0.11,1,51,High School,Female
+41.7,5201.16,0.1,34.7,50.1,High School,Male
+39.2,105352.83,0.32,11.9,72.4,Master's,Male
+43.4,12696.42,0.07,36.8,53.7,High School,Male
+28.8,1256.58,0.13,24.6,66.3,Bachelor's,Male
+29.4,12578.37,0.22,8,82.4,Master's,Female
+24,207206.04,0.37,21.4,82.7,Master's,Male
+39.4,1290.05,0.13,27.3,55.2,High School,Male
+42.8,22271.8,0.37,22.8,85.7,Master's,Male
+39.6,94819.8,0.07,10.1,57.5,High School,Male
+51.7,11586.97,0.21,25.6,77.5,Master's,Female
+34.9,402.09,0.13,6.7,55.8,High School,Female
+41.7,46380.64,0.14,1.4,59.8,High School,Non-binary
+24.1,4390.81,0.25,10.5,79.6,Master's,Female
+31.1,22413.05,0.07,25.6,59,High School,Male
+42,54739.84,0.08,8.3,55.5,High School,Female
+43.5,58693.29,0.23,15.3,76.7,Master's,Male
+32.1,34156.31,0.3,18.8,76.5,Master's,Male
+34.3,1740.43,0.21,17.6,75.6,Bachelor's,Female
+19.8,13182.54,0.15,9,65.4,Bachelor's,Male
+31.4,14091.45,0.2,9.1,71,Bachelor's,Female
+43.9,11724.34,0.09,18.2,56.8,High School,Male
+40.8,5050.36,0.09,9.2,55.9,High School,Female
+40,34153.72,0.14,11.6,56,High School,Female
+35.5,42251.81,0.44,2.2,82.5,PhD,Female
+35.1,6785.06,0.22,7.8,66.4,Bachelor's,Female
+28.4,61660.44,0.21,5.6,63.9,Bachelor's,Female
+42,5999.93,0.14,31.8,74,Bachelor's,Male
+39.2,72585.21,0.42,12.8,94.7,PhD,Female
+39.9,17780.14,0.06,7.4,57.9,High School,Male
+29.7,11797.71,0.23,12,70.2,Bachelor's,Female
+13.5,9112.63,0.11,3.3,66.6,Bachelor's,Female
+46,14849.75,0.18,11.4,72.6,Bachelor's,Female
+30.2,2884.1,0.09,16.3,60.3,High School,Male
+26.4,15821.7,0.36,21.7,80.7,Master's,Male
+41.9,64931.18,0.49,7.3,86.6,PhD,Female
+31.1,35700.04,0.2,12.8,66.5,Bachelor's,Male
+45.6,113938.66,0.19,6,76.3,Bachelor's,Male
+41.2,189663.9,0.45,30,83.8,PhD,Male
+41.8,21806.53,0.28,22.7,81.2,Master's,Non-binary
+21.3,31341.72,0.06,14.2,57.6,High School,Female
+47.1,18555.58,0.13,10.5,63.9,Bachelor's,Male
+37.6,18551.88,0.12,11.9,68,Bachelor's,Male
+31.3,40766.18,0.17,13,71.8,Bachelor's,Male
+36.4,79174.3,0.27,11.7,81.2,Master's,Female
+17.2,13188.1,0.38,6.5,82.6,PhD,Female
+39.1,7841.1,0.38,28,87.9,PhD,Male
+24.7,48217.44,0.14,18,78.5,Bachelor's,Male
+21.5,6372.31,0.14,12.2,56.5,High School,Male
+19.8,94768.04,0.35,6.8,87.4,PhD,Female
+46.1,4228.97,0.36,5,71.7,Master's,Female
+28.7,27125.28,0.13,18.2,58.3,High School,Male
+50.3,52719.2,0.51,11.8,89.9,PhD,Male
+29.6,71130.76,0.35,13.8,78.5,Master's,Male
+17.9,68141.92,0.24,13.3,62.5,Bachelor's,Non-binary
+23.8,51990.31,0.24,6.4,73.1,Bachelor's,Male
+47.4,27773.13,0.14,7.3,51.1,High School,Female
+33.4,1497.37,0.09,5.1,58.9,High School,Female
+29.5,1884.76,0.13,14.9,52,High School,Male
+36.6,76145.89,0.22,12.8,79.3,Master's,Male
+40,6074.18,0.14,13,60.5,High School,Male
+46.2,2808.42,0.11,17,55.7,High School,Female
+49.5,31669.93,0.1,22.8,51.1,High School,Female
+31.4,36379.17,0.11,22.2,63.6,Bachelor's,Female
+21.7,65293.77,0.41,3,82.2,PhD,Female
+30.9,34.3,0.09,26.9,51,High School,Male
+37.6,3481.1,0.07,8.7,51.1,High School,Non-binary
+25.4,88158.79,0.38,19.2,81.7,Master's,Female
+25.4,19098.08,0.12,28.6,68.8,Bachelor's,Male
+38.4,20217.83,0.07,11.2,59,High School,Non-binary
+34.5,19330.17,0.25,2.4,66.4,Bachelor's,Female
+35.3,7016.46,0.1,8.4,59.5,High School,Female
+27.4,33238.72,0.14,12.8,51.3,High School,Female
+32.7,60831.85,0.18,13.2,66.7,Bachelor's,Female
+25.8,12196.26,0.17,5.8,63.6,Bachelor's,Female
+43.9,391199.5,0.41,6.4,82.2,PhD,Male
+45.4,2811.46,0.07,15.8,55.2,High School,Male
+16.5,18170.84,0.22,11.6,62.6,Bachelor's,Female
+25.7,18263.18,0.22,4.6,66.7,Bachelor's,Male
+20,309.71,0.13,16.1,53.6,High School,Male
+28.5,129392.94,0.23,22.2,68,Bachelor's,Male
+34.2,15797.16,0.1,38.5,52.9,High School,Male
+20.5,19216.82,0.49,7.2,87.2,PhD,Female
+25.8,42905.12,0.06,8.5,53.4,High School,Female
+25,46333.18,0.12,37.1,65.9,Bachelor's,Male
+37.1,59091.82,0.07,7.2,53.6,High School,Male
+35.7,71490.09,0.47,5.5,79.8,PhD,Male
+27.8,8229.25,0.24,15.5,74.4,Bachelor's,Female
+36.8,10299.07,0.24,10,64.1,Bachelor's,Female
+29.5,1790.95,0.14,35.6,55.2,High School,Male
+32.3,20243.59,0.28,4.5,76.8,Master's,Female
+51.7,13806.73,0.15,8.4,55.8,High School,Female
+48.4,23287.79,0.37,7.6,77.1,Master's,Female
+22,3427.73,0.07,12.1,58.5,High School,Female
+43.3,5532.72,0.08,15.8,51.9,High School,Male
+43.1,45890.33,0.14,4.8,51.1,High School,Female
+23.5,34239.33,0.17,30.4,68.4,Bachelor's,Male
+43.2,85098.78,0.16,8.2,64.2,Bachelor's,Female
+50.4,3561.73,0.05,10.2,53.3,High School,Female
+23.8,17052.18,0.21,5.1,81.7,Master's,Female
+25.8,21114.9,0.16,19.5,71.4,Bachelor's,Female
+45.2,10744.78,0.13,11.7,68.3,Bachelor's,Male
+37.7,77352.26,0.19,7.3,65.5,Bachelor's,Female
+40.5,108973.77,0.11,7.3,78,Bachelor's,Non-binary
+38.4,1291.56,0.16,10.2,74.6,Bachelor's,Female
+38.9,28741.49,0.11,12.4,54.4,High School,Male
+21.7,3307.95,0.14,16.1,51.6,High School,Male
+45.5,32057.76,0.35,16.6,83.8,Master's,Male
+46.7,161484.06,0.48,2.2,82.7,PhD,Female
+32.7,13367.28,0.13,3.8,56.7,High School,Female
+34.6,487.85,0.13,16,53.8,High School,Male
+19.7,18943.53,0.1,13.1,72.5,Bachelor's,Female
+40.1,36193.1,0.21,17.7,61.5,Bachelor's,Female
+40.7,12126.04,0.09,17.5,49.5,High School,Female
+34.4,2163.3,0.13,6.7,58.9,High School,Female
+46.2,60490.76,0.29,4.7,77.5,Master's,Female
+31.7,17066.05,0.18,7.6,70.6,Bachelor's,Female
+40.6,33143.93,0.13,24.3,57.9,High School,Male
+24.8,28824.77,0.13,6,55.2,High School,Female
+34.8,8978.41,0.1,4.1,51.9,High School,Female
+33.3,2785.96,0.24,9.3,66.9,Bachelor's,Female
+37.3,17595.58,0.14,6.5,53.3,High School,Female
+31.3,3307.91,0.13,12.1,55.4,High School,Female
+33.7,36268.86,0.28,17.5,77.3,Master's,Male
+43.3,39345.89,0.08,9.2,51.9,High School,Male
+30.6,33682.11,0.23,10.5,69.1,Bachelor's,Male
+18.9,33046.69,0.11,26.1,52.4,High School,Male
+52.5,51339.7,0.13,9.6,52.7,High School,Female
+48.8,83109.91,0.09,6.1,55,High School,Non-binary
+22.1,92294.06,0.26,18.8,74.7,Master's,Male
+41.9,151923.44,0.25,15.4,88.5,Master's,Male
+30,43205.36,0.33,12.4,86.6,Master's,Female
+37.6,3917.71,0.14,13.9,50.3,High School,Male
+37.9,41842,0.1,4.8,74.2,Bachelor's,Female
+32.7,11987.19,0.14,8.1,54.9,High School,Female
+27.2,10787.61,0.06,12.7,56.6,High School,Female
+28.1,203040.25,0.39,17.1,79,Master's,Male
+25.8,27129.44,0.13,7.5,53.3,High School,Male
+26.7,11012.66,0.07,4.5,55.4,High School,Female
+34.3,7267.28,0.09,9.9,55,High School,Female
+27.8,4839.78,0.11,20.1,51.8,High School,Male
+41.8,13016.47,0.12,6.4,53.5,High School,Female
+49.9,31776.29,0.2,2.7,76,Bachelor's,Male
+29.2,33961.59,0.19,6.1,70.9,Bachelor's,Female
+37.4,11418.73,0.27,18.9,82,Master's,Male
+40,126369.65,0.21,7.8,74.2,Master's,Non-binary
+39.7,1664.17,0.05,10.6,57.7,High School,Male
+35.8,51185.34,0.09,22.6,54.3,High School,Male
+42.4,5095.18,0.1,30.9,58.1,High School,Male
+39.8,78314.53,0.11,21.7,73.4,Bachelor's,Male
+22.6,2090.51,0.1,14.5,55.6,High School,Female
+43.7,21106.92,0.17,4.1,66.3,Bachelor's,Non-binary
+43.9,139327.24,0.14,15.7,65.3,Bachelor's,Male
+27.4,53405.92,0.12,16.3,72.4,Bachelor's,Male
+35.4,31494.18,0.2,3.7,71.6,Bachelor's,Female
+41.8,46634.25,0.06,12.2,55.8,High School,Female
+32.9,101825.69,0.5,5,84.6,PhD,Female
+45.7,49161.99,0.32,24.2,78.7,Master's,Male
+58.6,41526.05,0.1,15.7,57.2,High School,Male
+27.1,21140.6,0.32,11.4,87.1,Master's,Female
+21.2,57680.89,0.21,4.6,65.1,Bachelor's,Male
+38,110001.53,0.29,5.5,79.6,Master's,Female
+42.2,183025.73,0.28,23.5,73.5,Master's,Male
+32.7,3258.62,0.17,21.9,67.2,Bachelor's,Female
+49.5,16704.82,0.07,14.5,57.6,High School,Male
+21.6,24232.16,0.13,5.1,55.7,High School,Female
+41.9,22939.86,0.18,19.3,73,Bachelor's,Male
+28.9,26263.42,0.17,8.4,71.8,Bachelor's,Female
+52.2,18728.71,0.06,24.1,53.1,High School,Male
+54.9,43116.77,0.14,6.8,55.2,High School,Female
+27.3,6690.31,0.39,4.5,75.5,Master's,Female
+29.5,23310.14,0.43,7,84.2,PhD,Female
+43.6,5992.18,0.14,8.4,75.7,Bachelor's,Female
+31.1,2552.45,0.11,9.1,56.1,High School,Female
+34.5,38933.05,0.14,5.3,55.6,High School,Female
+35.3,3385.51,0.08,30,54.4,High School,Male
+15.8,46728.18,0.36,8.9,84.9,PhD,Female
+34.9,9919.85,0.1,19.5,56.5,High School,Male
+28.1,27323.88,0.22,30.7,73.4,Bachelor's,Male
+30.1,3061.46,0.1,11.6,55.5,High School,Male
+49.4,95332.92,0.12,25.9,68.6,Bachelor's,Male
+22.4,61440.59,0.24,5.6,68.9,Bachelor's,Female
+43.1,45008.14,0.21,2.1,82.6,Master's,Female
+32.2,20388.79,0.09,5.4,57.3,High School,Female
+32.2,6.43,0.13,2.9,50.9,High School,Female
+42.9,5101.48,0.09,16.3,49.5,High School,Male
+38.4,398628.73,0.48,3.1,80.6,PhD,Male
+40.7,47243.92,0.38,12,80.9,Master's,Male
+44.7,44709.09,0.19,4.7,68.7,Bachelor's,Male
+31.7,7267.36,0.19,9.7,82.4,Bachelor's,Male
+28.9,16002.58,0.24,27.2,71.1,Bachelor's,Male
+24.1,20503.66,0.06,3.3,50,High School,Female
+26.7,306308.22,0.38,8.2,84.9,PhD,Female
+64.5,18109.88,0.2,5.6,63.4,Bachelor's,Non-binary
+47.4,34992.65,0.05,15.7,53,High School,Female
+21.5,57271.24,0.14,12.5,62.4,Bachelor's,Female
+21.8,10807.96,0.06,42.6,56,High School,Male
+39.8,641.36,0.12,7.6,48.8,High School,Female
+40.5,67960.12,0.21,4.6,91.3,Master's,Female
+40.5,5796.42,0.12,9.2,49.4,High School,Male
+32.5,94933.8,0.24,17.1,71.5,Bachelor's,Male
+33.7,6949.46,0.07,2.3,58.4,High School,Female
+38.3,18305.95,0.14,14.2,49.9,High School,Male
+35.9,18939.58,0.1,8.5,53.7,High School,Female
+12.8,10181.77,0.12,16.8,48.2,High School,Female
+32.7,33555.07,0.21,16.6,75,Master's,Male
+26.5,34297.3,0.15,34.1,55.7,High School,Male
+36.8,10537.57,0.23,22.1,77.7,Bachelor's,Male
+64.9,90933.99,0.17,13.7,61.3,Bachelor's,Male
+38.7,32627.16,0.19,9.2,71.2,Bachelor's,Male
+31.9,80250.12,0.37,9.6,87.7,PhD,Female
+44.2,10829.75,0.22,17.3,86.2,Master's,Male
+39.8,1495.3,0.09,4.4,48.2,High School,Female
+39.2,104412.83,0.11,21.6,52.4,High School,Male
+41.1,59589.36,0.08,7.4,53.9,High School,Female
+55.6,50372.8,0.1,25.8,62.9,Bachelor's,Male
+23.7,1526.1,0.07,30,56.2,High School,Male
+39.7,37070.06,0.14,2.6,72.7,Bachelor's,Female
+25.7,16588.37,0.15,4.9,77.1,Bachelor's,Female
+40.6,26579.65,0.15,8.8,49.2,High School,Male
+25.8,33142.73,0.25,13.2,87.5,Master's,Female
+30.8,15938.04,0.1,12.1,51.4,High School,Male
+32,28114.23,0.09,14.7,57.5,High School,Male
+44.8,53199.52,0.27,6.5,84.3,Master's,Male
+44.2,52606.51,0.14,15.7,65,Bachelor's,Male
+22.5,6879.55,0.13,1.5,69.4,Bachelor's,Female
+35.5,12392.02,0.14,7.4,70.9,Bachelor's,Male
+27.9,24470.54,0.06,7.6,49.6,High School,Male
+22.4,68926.08,0.31,5.4,84.9,Master's,Female
+32.8,58922.67,0.22,8.8,73.4,Master's,Female
+31.9,44464.98,0.23,52.2,68.2,Bachelor's,Male
+59.3,14974.22,0.09,5.1,54.4,High School,Female
+39.3,21970.74,0.24,13.6,63.2,Bachelor's,Male
+21.2,7480.29,0.09,13.5,59.8,High School,Female
+29.4,6506.89,0.13,2,61.3,High School,Female
+45.2,204637.18,0.45,10.7,93.4,PhD,Non-binary
+55.9,308.34,0.14,15.4,54.9,High School,Male
+19.1,50402.44,0.38,15.2,74.7,PhD,Male
+16.2,54492.28,0.16,36.1,69.6,Bachelor's,Male
