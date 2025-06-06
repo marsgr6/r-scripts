@@ -1,0 +1,9 @@
+Edad	Exp	Ciudad
+32	7	Ibague
+24	4	Bogota
+26	8	Medellin
+30	5	Bogota
+23	3	Zipaquira
+24	3	Bogota
+31	8	Bucaramanga
+36	7	Bogota

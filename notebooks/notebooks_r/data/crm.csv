@@ -1,0 +1,201 @@
+state,variable,value
+alabama,Murder,13.2
+alaska,Murder,10
+arizona,Murder,8.1
+arkansas,Murder,8.8
+california,Murder,9
+colorado,Murder,7.9
+connecticut,Murder,3.3
+delaware,Murder,5.9
+florida,Murder,15.4
+georgia,Murder,17.4
+hawaii,Murder,5.3
+idaho,Murder,2.6
+illinois,Murder,10.4
+indiana,Murder,7.2
+iowa,Murder,2.2
+kansas,Murder,6
+kentucky,Murder,9.7
+louisiana,Murder,15.4
+maine,Murder,2.1
+maryland,Murder,11.3
+massachusetts,Murder,4.4
+michigan,Murder,12.1
+minnesota,Murder,2.7
+mississippi,Murder,16.1
+missouri,Murder,9
+montana,Murder,6
+nebraska,Murder,4.3
+nevada,Murder,12.2
+new hampshire,Murder,2.1
+new jersey,Murder,7.4
+new mexico,Murder,11.4
+new york,Murder,11.1
+north carolina,Murder,13
+north dakota,Murder,0.8
+ohio,Murder,7.3
+oklahoma,Murder,6.6
+oregon,Murder,4.9
+pennsylvania,Murder,6.3
+rhode island,Murder,3.4
+south carolina,Murder,14.4
+south dakota,Murder,3.8
+tennessee,Murder,13.2
+texas,Murder,12.7
+utah,Murder,3.2
+vermont,Murder,2.2
+virginia,Murder,8.5
+washington,Murder,4
+west virginia,Murder,5.7
+wisconsin,Murder,2.6
+wyoming,Murder,6.8
+alabama,Assault,236
+alaska,Assault,263
+arizona,Assault,294
+arkansas,Assault,190
+california,Assault,276
+colorado,Assault,204
+connecticut,Assault,110
+delaware,Assault,238
+florida,Assault,335
+georgia,Assault,211
+hawaii,Assault,46
+idaho,Assault,120
+illinois,Assault,249
+indiana,Assault,113
+iowa,Assault,56
+kansas,Assault,115
+kentucky,Assault,109
+louisiana,Assault,249
+maine,Assault,83
+maryland,Assault,300
+massachusetts,Assault,149
+michigan,Assault,255
+minnesota,Assault,72
+mississippi,Assault,259
+missouri,Assault,178
+montana,Assault,109
+nebraska,Assault,102
+nevada,Assault,252
+new hampshire,Assault,57
+new jersey,Assault,159
+new mexico,Assault,285
+new york,Assault,254
+north carolina,Assault,337
+north dakota,Assault,45
+ohio,Assault,120
+oklahoma,Assault,151
+oregon,Assault,159
+pennsylvania,Assault,106
+rhode island,Assault,174
+south carolina,Assault,279
+south dakota,Assault,86
+tennessee,Assault,188
+texas,Assault,201
+utah,Assault,120
+vermont,Assault,48
+virginia,Assault,156
+washington,Assault,145
+west virginia,Assault,81
+wisconsin,Assault,53
+wyoming,Assault,161
+alabama,UrbanPop,58
+alaska,UrbanPop,48
+arizona,UrbanPop,80
+arkansas,UrbanPop,50
+california,UrbanPop,91
+colorado,UrbanPop,78
+connecticut,UrbanPop,77
+delaware,UrbanPop,72
+florida,UrbanPop,80
+georgia,UrbanPop,60
+hawaii,UrbanPop,83
+idaho,UrbanPop,54
+illinois,UrbanPop,83
+indiana,UrbanPop,65
+iowa,UrbanPop,57
+kansas,UrbanPop,66
+kentucky,UrbanPop,52
+louisiana,UrbanPop,66
+maine,UrbanPop,51
+maryland,UrbanPop,67
+massachusetts,UrbanPop,85
+michigan,UrbanPop,74
+minnesota,UrbanPop,66
+mississippi,UrbanPop,44
+missouri,UrbanPop,70
+montana,UrbanPop,53
+nebraska,UrbanPop,62
+nevada,UrbanPop,81
+new hampshire,UrbanPop,56
+new jersey,UrbanPop,89
+new mexico,UrbanPop,70
+new york,UrbanPop,86
+north carolina,UrbanPop,45
+north dakota,UrbanPop,44
+ohio,UrbanPop,75
+oklahoma,UrbanPop,68
+oregon,UrbanPop,67
+pennsylvania,UrbanPop,72
+rhode island,UrbanPop,87
+south carolina,UrbanPop,48
+south dakota,UrbanPop,45
+tennessee,UrbanPop,59
+texas,UrbanPop,80
+utah,UrbanPop,80
+vermont,UrbanPop,32
+virginia,UrbanPop,63
+washington,UrbanPop,73
+west virginia,UrbanPop,39
+wisconsin,UrbanPop,66
+wyoming,UrbanPop,60
+alabama,Rape,21.2
+alaska,Rape,44.5
+arizona,Rape,31
+arkansas,Rape,19.5
+california,Rape,40.6
+colorado,Rape,38.7
+connecticut,Rape,11.1
+delaware,Rape,15.8
+florida,Rape,31.9
+georgia,Rape,25.8
+hawaii,Rape,20.2
+idaho,Rape,14.2
+illinois,Rape,24
+indiana,Rape,21
+iowa,Rape,11.3
+kansas,Rape,18
+kentucky,Rape,16.3
+louisiana,Rape,22.2
+maine,Rape,7.8
+maryland,Rape,27.8
+massachusetts,Rape,16.3
+michigan,Rape,35.1
+minnesota,Rape,14.9
+mississippi,Rape,17.1
+missouri,Rape,28.2
+montana,Rape,16.4
+nebraska,Rape,16.5
+nevada,Rape,46
+new hampshire,Rape,9.5
+new jersey,Rape,18.8
+new mexico,Rape,32.1
+new york,Rape,26.1
+north carolina,Rape,16.1
+north dakota,Rape,7.3
+ohio,Rape,21.4
+oklahoma,Rape,20
+oregon,Rape,29.3
+pennsylvania,Rape,14.9
+rhode island,Rape,8.3
+south carolina,Rape,22.5
+south dakota,Rape,12.8
+tennessee,Rape,26.9
+texas,Rape,25.5
+utah,Rape,22.9
+vermont,Rape,11.2
+virginia,Rape,20.7
+washington,Rape,26.2
+west virginia,Rape,9.3
+wisconsin,Rape,10.8
+wyoming,Rape,15.6

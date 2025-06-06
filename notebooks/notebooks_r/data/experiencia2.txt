@@ -1,0 +1,9 @@
+Caso	Exp	Ciudad
+1	"7,2"	Ibague
+2	"4,0"	Bogota
+3	"8,1"	Medellin
+4	"5,3"	Bogota
+5	"3,2"	Zipaquira
+6	"3,8"	Bogota
+7	"8,4"	Bucaramanga
+8	"7,7"	Bogota
